@@ -1,0 +1,3 @@
+C:\Users\33501\source\自学\黑白棋\x64\Debug\黑白棋.exe
+C:\Users\33501\Desktop\2300012968 蔡浩楠 黑白棋大作业\pack\x64\Debug\黑白棋.exe
+C:\Users\33501\Desktop\2300012968 蔡浩楠 黑白棋大作业\vs pack\x64\Debug\黑白棋.exe

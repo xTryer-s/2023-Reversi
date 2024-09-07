@@ -1,0 +1,4 @@
+﻿  封装.cpp
+C:\Users\33501\Desktop\2300012968 蔡浩楠 黑白棋大作业\vs pack\封装.cpp(1189,13): warning C4552: ”-“: 未使用表达式结果
+C:\Users\33501\Desktop\2300012968 蔡浩楠 黑白棋大作业\vs pack\封装.cpp(1118): warning C4715: “minmax”: 不是所有的控件路径都返回值
+  黑白棋.vcxproj -> C:\Users\33501\Desktop\2300012968 蔡浩楠 黑白棋大作业\vs pack\x64\Debug\黑白棋.exe
